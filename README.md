@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabeet</h1>
 <h3 align="center">I am a Blockchain Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **NEXT JS, Solidity**
+- 🌱 I’m currently improving myself on **NEXT JS, Solidity**
 
 - 📝 I regularly write articles on [https://syedrabeet.hashnode.dev/](https://syedrabeet.hashnode.dev/)
 
