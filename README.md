@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabeet</h1>
-<h3 align="center">I am a Blockchain Developer and Security Researcher from Pakistan</h3>
+<h3 align="center">I am a Software Engineer from Pakistan</h3>
 
 - 🌱 I’m currently improving myself on **NEXT JS, Solidity and Smart Contract Security**
 
